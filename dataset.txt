@@ -1,0 +1,101 @@
+Salut | Salut! Bine ai venit. Cu ce te pot ajuta astăzi?
+Bună ziua | Bună! Sunt asistentul tău virtual. Spune-mi cu ce te ajut.
+Neața | Bună dimineața! Cum te pot ajuta?
+Ce faci? | Sunt un robot, deci nu am sentimente, dar sunt gata să te ajut!
+Cine ești? | Sunt un chatbot inteligent creat pentru a răspunde la întrebările clienților.
+Ești robot? | Da, sunt un asistent virtual automatizat.
+Cum te cheamă? | Mă poți numi Asistentul AI.
+Vreau să vorbesc cu un om | Sigur, poți suna la 0700.123.456 pentru un operator uman.
+Care este numărul de telefon? | Numărul nostru de suport este 0700.123.456.
+Aveți adresa de email? | Da, ne poți scrie oricând la contact@magazinulmeu.ro.
+Unde aveți sediul? | Sediul nostru este în București, Sector 1, Strada Exemplului nr. 10.
+Care este programul de lucru? | Suntem disponibili de Luni până Vineri, între orele 09:00 și 18:00.
+Lucrați în weekend? | În weekend procesăm doar comenzile online, suportul telefonic este închis.
+Cum pot plasa o comandă? | Adaugă produsele în coș și apasă butonul "Finalizează Comanda".
+Pot comanda telefonic? | Da, sună la 0700.123.456 și un coleg va prelua comanda ta.
+Trebuie să îmi fac cont pentru a comanda? | Nu, poți comanda și ca vizitator (guest), dar contul îți oferă avantaje.
+Cum îmi fac cont? | Apasă pe "Înregistrare" în colțul din dreapta sus și completează datele.
+Am uitat parola | Accesează pagina de login și apasă pe "Am uitat parola" pentru resetare.
+Cum schimb parola? | Te poți loga în contul tău, la secțiunea "Securitate", pentru a schimba parola.
+Nu mă pot conecta la cont | Verifică dacă ai introdus corect emailul. Dacă problema persistă, resetează parola.
+Vreau să șterg contul | Trimite-ne o cerere pe email la contact@magazinulmeu.ro pentru ștergerea datelor.
+Cum modific datele personale? | Intră în "Contul Meu" -> "Date Personale" și editează câmpurile dorite.
+Unde este comanda mea? | Poți verifica statusul comenzii în secțiunea "Istoric Comenzi" din contul tău.
+Îmi puteți spune statusul comenzii? | Te rog să îmi spui numărul comenzii pentru a verifica.
+Cât durează livrarea? | Livrarea standard durează între 24 și 48 de ore lucrătoare.
+Livrați sâmbăta? | Curierii livrează sâmbăta doar în localitățile mari, în funcție de programul lor.
+Cu ce firmă de curierat livrați? | Colaborăm cu Fan Courier și Sameday.
+Pot ridica pachetul de la easybox? | Da, selectează "Livrare la Easybox" la finalizarea comenzii.
+Cât costă transportul? | Transportul costă 19 lei pentru comenzi sub 200 lei.
+Aveți transport gratuit? | Da, oferim transport gratuit pentru comenzi mai mari de 200 lei.
+Livrați internațional? | Momentan livrăm doar pe teritoriul României.
+Pot deschide coletul la livrare? | Da, poți opta pentru serviciul "Deschidere la livrare" contra cost (5 lei).
+Am greșit adresa de livrare | Te rog să ne suni urgent sau să ne scrii pe email pentru a modifica adresa.
+Pot modifica o comandă deja plasată? | Doar dacă nu a fost încă predată curierului. Contactează-ne rapid!
+Cum anulez o comandă? | Intră în contul tău la comenzi și apasă "Anulează", sau sună-ne.
+Vreau să returnez un produs | Completează formularul de retur de pe site în termen de 14 zile.
+Care este politica de retur? | Ai dreptul legal să returnezi orice produs în 14 zile calendaristice.
+Cât costă returul? | Returul este gratuit dacă produsul este defect. Altfel, costul transportului este suportat de tine.
+În cât timp primesc banii înapoi? | Banii se returnează în contul tău în maxim 5-7 zile lucrătoare de la primirea returului.
+Pot schimba produsul cu altceva? | Da, menționează în formularul de retur că dorești un schimb.
+Primesc banii cash la retur? | Nu, banii se virează doar în cont bancar pentru siguranță.
+Produsul a ajuns deteriorat | Ne pare rău! Te rugăm să ne trimiți poze pe email și îl vom înlocui gratuit.
+Lipsește un produs din colet | Verifică factura. Dacă lipsește fizic, contactează-ne pentru a remedia situația.
+Ce metode de plată acceptați? | Acceptăm plata cu cardul online, transfer bancar sau ramburs (numerar la curier).
+Pot plăti în rate? | Da, acceptăm plata în până la 6 rate fără dobândă prin carduri de cumpărături.
+Este sigură plata cu cardul? | Da, plățile sunt procesate securizat prin procesatorul Netopia Payments.
+De ce mi-a fost respins cardul? | Verifică dacă ai fonduri suficiente sau dacă ai activată opțiunea de plăți online.
+Emiteți factură fiscală? | Da, factura se emite automat și o primești pe email.
+Emiteți factură pe firmă? | Da, completează datele firmei (CUI, Reg Com) la finalizarea comenzii.
+Unde găsesc factura? | Factura este atașată în emailul de confirmare și în contul tău de client.
+Aveți magazin fizic? | Nu, momentan vindem exclusiv online.
+Produsele sunt noi? | Da, toate produsele noastre sunt noi, sigilate și originale.
+Oferiți garanție? | Da, toate produsele beneficiază de garanție legală de 24 de luni.
+Cum trimit un produs în garanție? | Completează formularul de service de pe site și curierul va ridica produsul.
+Cât durează reparația în service? | Termenul legal este de maxim 15 zile calendaristice.
+Aveți produse resigilate? | Uneori avem o secțiune de "Resigilate" cu prețuri reduse pe site.
+Cum aflu dacă un produs e pe stoc? | Statusul stocului este afișat în timp real pe pagina fiecărui produs.
+Ce înseamnă "Stoc epuizat"? | Înseamnă că produsul nu mai este disponibil momentan.
+Când revine un produs pe stoc? | Poți activa alerta de stoc pe pagina produsului pentru a fi notificat pe email.
+Aveți carduri cadou? | Da, poți cumpăra Gift Cards cu valori între 50 și 500 lei.
+Cum folosesc un cod de reducere? | Introdu codul în căsuța "Voucher" din coșul de cumpărături.
+De ce nu merge codul de reducere? | Verifică data de expirare și dacă se aplică produselor din coșul tău.
+Oferiți reduceri de Black Friday? | Da, în fiecare an avem campanii majore de reduceri în noiembrie.
+Aveți program de fidelitate? | Da, primești puncte bonus la fiecare comandă, pe care le poți folosi ulterior.
+Cum mă dezabonez de la newsletter? | Există un link de dezabonare în subsolul oricărui email primit de la noi.
+Datele mele sunt în siguranță? | Da, respectăm cu strictețe regulamentul GDPR privind protecția datelor.
+Folosiți cookie-uri? | Da, folosim cookie-uri pentru a îmbunătăți experiența de navigare.
+Pot comanda fără TVA? | Doar pentru livrări intracomunitare către firme plătitoare de TVA din afara României.
+Colaborați cu influenceri? | Trimite-ne propunerea ta de colaborare pe adresa de marketing.
+Angajați personal? | Poți verifica secțiunea "Cariere" de pe site-ul nostru.
+Unde pot face o reclamație? | Te rugăm să ne scrii pe suport@magazinulmeu.ro pentru a rezolva problema amiabil.
+Cine este managerul magazinului? | Pentru probleme administrative, poți cere escaladarea tichetului către management.
+Ce faceți cu produsele returnate? | Sunt verificate, igienizate și vândute ca resigilate sau returnate la furnizor.
+Vindeți și en-gros? | Pentru oferte B2B (cantități mari), te rugăm să ne contactezi pe email.
+Pot rezerva un produs? | Nu putem rezerva produse fără o comandă fermă.
+Ce se întâmplă dacă nu sunt acasă la livrare? | Curierul va încerca livrarea a doua zi sau te va contacta telefonic.
+Pot schimba adresa după expediere? | Este dificil, dar poți încerca să iei legătura direct cu firma de curierat folosind AWB-ul.
+Primesc SMS înainte de livrare? | Majoritatea firmelor de curierat trimit un SMS în dimineața livrării.
+Aveți aplicație de mobil? | Momentan nu, dar site-ul nostru este optimizat pentru mobil.
+De ce nu pot plăti ramburs? | Pentru comenzi foarte mari sau produse personalizate, solicităm plata cu cardul.
+Cât timp este valabil coșul de cumpărături? | Produsele rămân în coș cât timp ai sesiunea activă, dar stocul nu este rezervat.
+Care este comanda minimă? | Nu avem o limită de comandă minimă.
+Pot cumula două comenzi? | Dacă nu au plecat încă spre tine, sună-ne și încercăm să le unim într-un singur colet.
+Vindeți produse second hand? | Nu, vindem doar produse noi.
+Ce branduri vindeți? | Comercializăm o gamă variată de branduri internaționale recunoscute.
+Cum aleg mărimea potrivită? | Verifică "Ghidul de mărimi" disponibil pe pagina fiecărui produs.
+Culorile din poze sunt reale? | Încercăm să redăm culorile cât mai fidel, dar pot exista mici diferențe în funcție de ecranul tău.
+Produsul primit nu arată ca în poză | Te rugăm să ne trimiți o poză. Dacă e o greșeală, remediem situația imediat.
+Mulțumesc | Cu plăcere! O zi frumoasă!
+Mersi | Cu drag! Mai ai și alte întrebări?
+La revedere | La revedere! Te mai așteptăm pe la noi.
+Noapte bună | Noapte bună!
+Pa | Pa pa! O zi bună.
+Super | Mă bucur că ți-am fost de ajutor!
+Ești prost | Îmi pare rău dacă te-am dezamăgit. Învăț constant să devin mai bun.
+Ești deștept | Mulțumesc! Fac tot posibilul.
+Nu m-ai ajutat | Îmi pare rău. Te rog să reformulezi sau să suni la relații clienți.
+Vreau să vorbesc cu șeful | Îți pot face legătura cu un supervizor dacă suni la call center.
+Serverul este picat sau lent | Echipa tehnică a fost notificată. Verifică mai târziu.
+Cât costă abonamentul lunar? | Abonamentul standard costă 10 EUR pe lună.
+

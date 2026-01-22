@@ -1,0 +1,5 @@
+streamlit
+scikit-learn
+joblib
+nltk
+numpy<2.0.0
